@@ -1,0 +1,14 @@
+F:\FAX!!!\Programiranje\C#\2018\KolokvijumNas\KolokvijumNas\bin\Debug\Studije.mdf
+F:\FAX!!!\Programiranje\C#\2018\KolokvijumNas\KolokvijumNas\bin\Debug\Studije_log.ldf
+F:\FAX!!!\Programiranje\C#\2018\KolokvijumNas\KolokvijumNas\bin\Debug\KolokvijumNas.exe.config
+F:\FAX!!!\Programiranje\C#\2018\KolokvijumNas\KolokvijumNas\bin\Debug\KolokvijumNas.exe
+F:\FAX!!!\Programiranje\C#\2018\KolokvijumNas\KolokvijumNas\bin\Debug\KolokvijumNas.pdb
+F:\FAX!!!\Programiranje\C#\2018\KolokvijumNas\KolokvijumNas\bin\Debug\EntityFramework.dll
+F:\FAX!!!\Programiranje\C#\2018\KolokvijumNas\KolokvijumNas\bin\Debug\EntityFramework.xml
+F:\FAX!!!\Programiranje\C#\2018\KolokvijumNas\KolokvijumNas\obj\Debug\KolokvijumNas.csprojResolveAssemblyReference.cache
+F:\FAX!!!\Programiranje\C#\2018\KolokvijumNas\KolokvijumNas\obj\Debug\KolokvijumNas.Form1.resources
+F:\FAX!!!\Programiranje\C#\2018\KolokvijumNas\KolokvijumNas\obj\Debug\KolokvijumNas.Properties.Resources.resources
+F:\FAX!!!\Programiranje\C#\2018\KolokvijumNas\KolokvijumNas\obj\Debug\KolokvijumNas.csproj.GenerateResource.Cache
+F:\FAX!!!\Programiranje\C#\2018\KolokvijumNas\KolokvijumNas\obj\Debug\KolokvijumNas.csproj.CoreCompileInputs.cache
+F:\FAX!!!\Programiranje\C#\2018\KolokvijumNas\KolokvijumNas\obj\Debug\KolokvijumNas.exe
+F:\FAX!!!\Programiranje\C#\2018\KolokvijumNas\KolokvijumNas\obj\Debug\KolokvijumNas.pdb
